@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Django
+*.log
+media/
+staticfiles/
+
+# Environment
+.env
+
+# Firebase
+config/firebase_key.json
+firebase_key.json
+
+# IDE
+.idea/
+.vscode/
+.DS_Store
+
+
